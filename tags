@@ -1,0 +1,6 @@
+Cleanup	bundle/functions/plugin/functions.vim	/^function! Cleanup()$/;"	f
+HtmlDecode	bundle/functions/plugin/functions.vim	/^function! HtmlDecode()$/;"	f
+HtmlEncode	bundle/functions/plugin/functions.vim	/^function! HtmlEncode()$/;"	f
+ToggleScratch	bundle/functions/plugin/functions.vim	/^function! ToggleScratch()$/;"	f
+UpdateIndexes	bundle/functions/plugin/functions.vim	/^function! UpdateIndexes()$/;"	f
+colors_name	colors/mylo.vim	/^let colors_name = "mylo"$/;"	v
